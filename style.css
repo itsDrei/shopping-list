@@ -122,6 +122,10 @@ header h1 {
   margin: 0 5px 20px;
   font-weight: 700;
   cursor: pointer;
+  text-transform: uppercase;
+}
+li:nth-child(odd){
+  background: rgba(128, 128, 128, 0.158);
 }
 
 @media (max-width: 500px) {
