@@ -37,7 +37,9 @@ header h1 {
 .edit-mode {
   color: #ccc;
 }
-
+.red-border{
+  border-color: red;
+}
 /* Form & Input */
 .form-input {
   width: 100%;
